@@ -1,6 +1,4 @@
 import {Routes, Route} from 'react-router-dom';
-import SiteHeader from "./components/layout/SiteHeader.jsx";
-import SiteFooter from "./components/layout/SiteFooter.jsx";
 import AboutPage from "./pages/About/AboutPage.jsx";
 import BlogPage from "./pages/Blog/BlogPage.jsx";
 import HomePage from "./pages/Home/HomePage.jsx";
